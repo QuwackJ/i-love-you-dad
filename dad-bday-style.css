@@ -1,0 +1,29 @@
+body {
+    background-color: #22A4FA; /* set as base color for square E for cool themes on adobe color wheel */
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    font-size: large;
+    color: #DFEFF9;
+}
+
+.fun {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
+
+#cat {
+    height: 350px;
+    width: 400px;
+}
+
+a {
+    color: #5722E3; /* good color: #FACA16 */
+}
+
+a:hover {
+    cursor: pointer;
+    color: #9B26FD; /* good color: #FAAB12 */
+}
